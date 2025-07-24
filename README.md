@@ -7,7 +7,7 @@
 - 👩‍💻 Blockchain Developer & Smart Contract Engineer
 - 🌱 Currently exploring Layer 2 Solutions
 - 💡 Passionate about DeFi and Web3 Technology
-- 🔗 Building decentralized applications and tokens
+- 🔗 Building decentralized applications 
 
 ###  Buy Me COFFEE
 [![Tip in Crypto](https://tip.md/badge.svg)](https://tip.md/ElaineSeraphina)
